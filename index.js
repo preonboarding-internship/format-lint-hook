@@ -1,3 +1,3 @@
-const hello = 'Hello, world';
+'first';
 
-console.info(hello);
+'second';
