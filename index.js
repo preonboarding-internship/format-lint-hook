@@ -1,4 +1,6 @@
 'first';
 'second';
 
-var foo = 'hello, world';
+const foo = 'hello, world';
+
+console.info(foo);
